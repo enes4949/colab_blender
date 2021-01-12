@@ -8,7 +8,7 @@ With slight modifications it can also be used with other Python Notebook compute
 
 USAGE
 -----
-[Youtube](https://youtu.be/AjdaiAgyF0w)
+[Youtube](https://youtu.be/AjdaiAgyF0w)\
 1.Login to your Google account.\
 2.Put your blend file to your Google Drive.\
 3.Click to the 'Open in Colab' button.\
