@@ -8,14 +8,14 @@ With slight modifications it can also be used with other Python Notebook compute
 
 USAGE
 =====
-1.Login to your Google account.
-2.Put your blend file to your Google Drive.
-3.Click to the 'Open in Colab' button.
-4.Select the Blender version and write the filename of your blend file.
-5.Click to the run button on the top left.
-6.If it gives an warning just skip it.
-7.Wait for a while and scroll to bottom.
-8.Click to the link about Google Drive and login to your account.
-9.Copy the authorization code, paste it to the field and hit enter. 
-10.Go to the very bottom and run the appropriate cell.
-11.Your results will be saved to your Google Drive.
+1.Login to your Google account.\
+2.Put your blend file to your Google Drive.\
+3.Click to the 'Open in Colab' button.\
+4.Select the Blender version and write the filename of your blend file.\
+5.Click to the run button on the top left.\
+6.If it gives an warning just skip it.\
+7.Wait for a while and scroll to bottom.\
+8.Click to the link about Google Drive and login to your account.\
+9.Copy the authorization code, paste it to the field and hit enter.\
+10.Go to the very bottom and run the appropriate cell.\
+11.Your results will be saved to your Google Drive.\
